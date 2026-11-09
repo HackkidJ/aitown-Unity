@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: 87a4674dd34ca0247afe83298c7196e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5450033423631825965
+    second: XiaoXia_0
+  - first:
+      213: 6873933317110360958
+    second: XiaoXia_1
+  - first:
+      213: -4549431311325756599
+    second: XiaoXia_2
+  - first:
+      213: 1279971647609102741
+    second: XiaoXia_3
+  - first:
+      213: -5208217130576746902
+    second: XiaoXia_4
+  - first:
+      213: 3421920756833044030
+    second: XiaoXia_5
+  - first:
+      213: 8496602030692043253
+    second: XiaoXia_6
+  - first:
+      213: 3266484567177474429
+    second: XiaoXia_7
+  - first:
+      213: 9101592012739079438
+    second: XiaoXia_8
+  - first:
+      213: -7052746013638674339
+    second: XiaoXia_9
+  - first:
+      213: -6179836652610787740
+    second: XiaoXia_10
+  - first:
+      213: -6989775785322977908
+    second: XiaoXia_11
+  - first:
+      213: 6390228165818756678
+    second: XiaoXia_12
+  - first:
+      213: 2763241006983831169
+    second: XiaoXia_13
+  - first:
+      213: -5613271752865743693
+    second: XiaoXia_14
+  - first:
+      213: 5373854757014348530
+    second: XiaoXia_15
+  - first:
+      213: 7144360297620888641
+    second: XiaoXia_16
+  - first:
+      213: 8146811227907107806
+    second: XiaoXia_17
+  - first:
+      213: 5942349015388363332
+    second: XiaoXia_18
+  - first:
+      213: 2560810859639936536
+    second: XiaoXia_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XiaoXia_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 551
+        width: 84
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d34b6a0a779d54b0800000000000000
+      internalID: -5450033423631825965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 551
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7be518aeed156f50800000000000000
+      internalID: 6873933317110360958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 551
+        width: 85
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9438366835c2dd0c0800000000000000
+      internalID: -4549431311325756599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 551
+        width: 84
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591ef429e6f53c110800000000000000
+      internalID: 1279971647609102741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 413
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a666ed23d12b8b7b0800000000000000
+      internalID: -5208217130576746902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 413
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36c1985cca1d7f20800000000000000
+      internalID: 3421920756833044030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 413
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9034da78ef9e570800000000000000
+      internalID: 8496602030692043253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 413
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71b8e24862e45d20800000000000000
+      internalID: 3266484567177474429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 285
+        width: 71
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d68d996b95f4e70800000000000000
+      internalID: 9101592012739079438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 285
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58b30e1edc9f1e90800000000000000
+      internalID: -7052746013638674339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 285
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466e13f7e4fcc3aa0800000000000000
+      internalID: -6179836652610787740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_11
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 285
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c856238e4f35ffe90800000000000000
+      internalID: -6989775785322977908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 157
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ea251f8a6aea850800000000000000
+      internalID: 6390228165818756678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 157
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e501a3e01095620800000000000000
+      internalID: 2763241006983831169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 157
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcf3b6c417a912b0800000000000000
+      internalID: -5613271752865743693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_15
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 157
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2226afd64c39a40800000000000000
+      internalID: 5373854757014348530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 32
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cd81796ddd52360800000000000000
+      internalID: 7144360297620888641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 32
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb219be5a94f0170800000000000000
+      internalID: 8146811227907107806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 32
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a9d9112f6777250800000000000000
+      internalID: 5942349015388363332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoXia_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 32
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8161dc9b8e3d98320800000000000000
+      internalID: 2560810859639936536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      XiaoXia_0: -5450033423631825965
+      XiaoXia_1: 6873933317110360958
+      XiaoXia_10: -6179836652610787740
+      XiaoXia_11: -6989775785322977908
+      XiaoXia_12: 6390228165818756678
+      XiaoXia_13: 2763241006983831169
+      XiaoXia_14: -5613271752865743693
+      XiaoXia_15: 5373854757014348530
+      XiaoXia_16: 7144360297620888641
+      XiaoXia_17: 8146811227907107806
+      XiaoXia_18: 5942349015388363332
+      XiaoXia_19: 2560810859639936536
+      XiaoXia_2: -4549431311325756599
+      XiaoXia_3: 1279971647609102741
+      XiaoXia_4: -5208217130576746902
+      XiaoXia_5: 3421920756833044030
+      XiaoXia_6: 8496602030692043253
+      XiaoXia_7: 3266484567177474429
+      XiaoXia_8: 9101592012739079438
+      XiaoXia_9: -7052746013638674339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

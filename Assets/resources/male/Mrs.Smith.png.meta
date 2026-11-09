@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: 2ea9e5c8d8a987b468d4c1f7d6883d95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7695596544312555216
+    second: Mrs.Smith_0
+  - first:
+      213: 6174844607939517881
+    second: Mrs.Smith_1
+  - first:
+      213: -3006362439974229206
+    second: Mrs.Smith_2
+  - first:
+      213: -6265583388608854289
+    second: Mrs.Smith_3
+  - first:
+      213: 6957648320344454864
+    second: Mrs.Smith_4
+  - first:
+      213: -5985681262507964860
+    second: Mrs.Smith_5
+  - first:
+      213: 4561043216334870339
+    second: Mrs.Smith_6
+  - first:
+      213: 2587383551015818810
+    second: Mrs.Smith_7
+  - first:
+      213: -8902648623786710024
+    second: Mrs.Smith_8
+  - first:
+      213: 6609549384592600522
+    second: Mrs.Smith_9
+  - first:
+      213: -7821937613801563794
+    second: Mrs.Smith_10
+  - first:
+      213: -6878941002656048361
+    second: Mrs.Smith_11
+  - first:
+      213: 4590029348602639050
+    second: Mrs.Smith_12
+  - first:
+      213: 795113377682942313
+    second: Mrs.Smith_13
+  - first:
+      213: 809200693650562144
+    second: Mrs.Smith_14
+  - first:
+      213: -6819182464307852209
+    second: Mrs.Smith_15
+  - first:
+      213: 2804791081976280252
+    second: Mrs.Smith_16
+  - first:
+      213: 4210525709048577521
+    second: Mrs.Smith_17
+  - first:
+      213: -7069470421905015021
+    second: Mrs.Smith_18
+  - first:
+      213: -626939188497369920
+    second: Mrs.Smith_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mrs.Smith_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 516
+        width: 79
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039c68947bfb33590800000000000000
+      internalID: -7695596544312555216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 516
+        width: 79
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd9877847471b550800000000000000
+      internalID: 6174844607939517881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 516
+        width: 82
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b624b0a414746d0800000000000000
+      internalID: -3006362439974229206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 516
+        width: 80
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe68163ca1d2c09a0800000000000000
+      internalID: -6265583388608854289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 380
+        width: 75
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6793eb8488e8060800000000000000
+      internalID: 6957648320344454864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 380
+        width: 75
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4464081fa969eeca0800000000000000
+      internalID: -5985681262507964860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 380
+        width: 75
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34758dac3a41c4f30800000000000000
+      internalID: 4561043216334870339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 380
+        width: 76
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a369cff81ab38e320800000000000000
+      internalID: 2587383551015818810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 253
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fba213be30737480800000000000000
+      internalID: -8902648623786710024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 253
+        width: 65
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd2b0a7526d9bb50800000000000000
+      internalID: 6609549384592600522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_10
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 253
+        width: 65
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e695712ce25e27390800000000000000
+      internalID: -7821937613801563794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 253
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b11d1ba971980a0800000000000000
+      internalID: -6878941002656048361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 127
+        width: 61
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2f310af5f03bf30800000000000000
+      internalID: 4590029348602639050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969e3f0876fc80b00800000000000000
+      internalID: 795113377682942313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 127
+        width: 61
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c9a095ebbda3b00800000000000000
+      internalID: 809200693650562144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_15
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 127
+        width: 61
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c8b54ada56d51a0800000000000000
+      internalID: -6819182464307852209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4316ee0ae9ce620800000000000000
+      internalID: 2804791081976280252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd7d75f2dace6a30800000000000000
+      internalID: 4210525709048577521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3
+        width: 61
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f78306b1234ed90800000000000000
+      internalID: -7069470421905015021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mrs.Smith_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4b7d5312aac47f0800000000000000
+      internalID: -626939188497369920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mrs.Smith_0: -7695596544312555216
+      Mrs.Smith_1: 6174844607939517881
+      Mrs.Smith_10: -7821937613801563794
+      Mrs.Smith_11: -6878941002656048361
+      Mrs.Smith_12: 4590029348602639050
+      Mrs.Smith_13: 795113377682942313
+      Mrs.Smith_14: 809200693650562144
+      Mrs.Smith_15: -6819182464307852209
+      Mrs.Smith_16: 2804791081976280252
+      Mrs.Smith_17: 4210525709048577521
+      Mrs.Smith_18: -7069470421905015021
+      Mrs.Smith_19: -626939188497369920
+      Mrs.Smith_2: -3006362439974229206
+      Mrs.Smith_3: -6265583388608854289
+      Mrs.Smith_4: 6957648320344454864
+      Mrs.Smith_5: -5985681262507964860
+      Mrs.Smith_6: 4561043216334870339
+      Mrs.Smith_7: 2587383551015818810
+      Mrs.Smith_8: -8902648623786710024
+      Mrs.Smith_9: 6609549384592600522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

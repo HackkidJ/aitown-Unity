@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MapObject
+  - InteractableArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bottom
+    uniqueID: 1067009421
+    locked: 0
+  - name: mid
+    uniqueID: 2618307653
+    locked: 0
+  - name: top
+    uniqueID: 3531396797
+    locked: 0
+  - name: over
+    uniqueID: 4267198639
+    locked: 0
+  - name: in_capicity
+    uniqueID: 3308358849
+    locked: 0
+  - name: npc
+    uniqueID: 2203996009
+    locked: 0
+  - name: wall
+    uniqueID: 3924572939
+    locked: 0
+  - name: wall_up
+    uniqueID: 344905355
+    locked: 0
+  - name: collision
+    uniqueID: 3635645191
+    locked: 0

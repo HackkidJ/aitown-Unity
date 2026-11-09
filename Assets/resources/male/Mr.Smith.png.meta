@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: 362cc68113e5bdf4ab51016df8a5ce91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3519942299432252807
+    second: Mr.Smith_0
+  - first:
+      213: 1199270735227407485
+    second: Mr.Smith_1
+  - first:
+      213: -8229809071098442131
+    second: Mr.Smith_2
+  - first:
+      213: 6519695053673171965
+    second: Mr.Smith_3
+  - first:
+      213: -81423977009820692
+    second: Mr.Smith_4
+  - first:
+      213: -1410049908330214332
+    second: Mr.Smith_5
+  - first:
+      213: 6715323026413977750
+    second: Mr.Smith_6
+  - first:
+      213: -3806047438990993445
+    second: Mr.Smith_7
+  - first:
+      213: -7886738466554487864
+    second: Mr.Smith_8
+  - first:
+      213: -1920138342248289601
+    second: Mr.Smith_9
+  - first:
+      213: -656487037042001424
+    second: Mr.Smith_10
+  - first:
+      213: 5373868418214169279
+    second: Mr.Smith_11
+  - first:
+      213: 5632907705149983025
+    second: Mr.Smith_12
+  - first:
+      213: -2418649108131700736
+    second: Mr.Smith_13
+  - first:
+      213: 4801504499248345026
+    second: Mr.Smith_14
+  - first:
+      213: 8517758711118506210
+    second: Mr.Smith_15
+  - first:
+      213: -3888851604702132765
+    second: Mr.Smith_16
+  - first:
+      213: 5568506515871165033
+    second: Mr.Smith_17
+  - first:
+      213: -7930993971465497086
+    second: Mr.Smith_18
+  - first:
+      213: -4064449157922287225
+    second: Mr.Smith_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mr.Smith_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 587
+        width: 80
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a087cc027a62fc0800000000000000
+      internalID: -3519942299432252807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 587
+        width: 79
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c40c2316aa4a010800000000000000
+      internalID: 1199270735227407485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 587
+        width: 82
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ec3e3d048d9cd80800000000000000
+      internalID: -8229809071098442131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 587
+        width: 80
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb8f06cb1c9a7a50800000000000000
+      internalID: 6519695053673171965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 450
+        width: 76
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb41260359bedef0800000000000000
+      internalID: -81423977009820692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 450
+        width: 75
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cc762441f7e6ce0800000000000000
+      internalID: -1410049908330214332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 450
+        width: 75
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690086596be913d50800000000000000
+      internalID: 6715323026413977750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 450
+        width: 76
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd718a005043e2bc0800000000000000
+      internalID: -3806047438990993445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 325
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb5c90862dac8290800000000000000
+      internalID: -7886738466554487864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 325
+        width: 67
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaeeaed95c4a55e0800000000000000
+      internalID: -1920138342248289601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 325
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9767d9480b3e6f0800000000000000
+      internalID: -656487037042001424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_11
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 325
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba8859bad0d39a40800000000000000
+      internalID: 5373868418214169279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 200
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1398602a6bb1c2e40800000000000000
+      internalID: 5632907705149983025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 201
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000ae71637b3f6ed0800000000000000
+      internalID: -2418649108131700736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 200
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf232117ee52a240800000000000000
+      internalID: 4801504499248345026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 201
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e825b23b68253670800000000000000
+      internalID: 8517758711118506210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 77
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5858dc116080ac0800000000000000
+      internalID: -3888851604702132765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 77
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ae2f74c2f474d40800000000000000
+      internalID: 5568506515871165033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 77
+        width: 63
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206d80fc0037fe190800000000000000
+      internalID: -7930993971465497086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Smith_19
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 78
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7811866760d2897c0800000000000000
+      internalID: -4064449157922287225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mr.Smith_0: -3519942299432252807
+      Mr.Smith_1: 1199270735227407485
+      Mr.Smith_10: -656487037042001424
+      Mr.Smith_11: 5373868418214169279
+      Mr.Smith_12: 5632907705149983025
+      Mr.Smith_13: -2418649108131700736
+      Mr.Smith_14: 4801504499248345026
+      Mr.Smith_15: 8517758711118506210
+      Mr.Smith_16: -3888851604702132765
+      Mr.Smith_17: 5568506515871165033
+      Mr.Smith_18: -7930993971465497086
+      Mr.Smith_19: -4064449157922287225
+      Mr.Smith_2: -8229809071098442131
+      Mr.Smith_3: 6519695053673171965
+      Mr.Smith_4: -81423977009820692
+      Mr.Smith_5: -1410049908330214332
+      Mr.Smith_6: 6715323026413977750
+      Mr.Smith_7: -3806047438990993445
+      Mr.Smith_8: -7886738466554487864
+      Mr.Smith_9: -1920138342248289601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

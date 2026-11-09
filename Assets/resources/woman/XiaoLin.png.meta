@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: 585257bc01f263a4bbfcbfc7a6559580
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4361205683945093165
+    second: XiaoLin_0
+  - first:
+      213: -6568105992916976381
+    second: XiaoLin_1
+  - first:
+      213: -6782979344710007163
+    second: XiaoLin_2
+  - first:
+      213: 2874210819608730088
+    second: XiaoLin_3
+  - first:
+      213: 6827094504754120865
+    second: XiaoLin_4
+  - first:
+      213: -5317731884228269901
+    second: XiaoLin_5
+  - first:
+      213: -6257324570912422570
+    second: XiaoLin_6
+  - first:
+      213: 2463915646266778371
+    second: XiaoLin_7
+  - first:
+      213: -6245606943407233024
+    second: XiaoLin_8
+  - first:
+      213: -2383038057854714065
+    second: XiaoLin_9
+  - first:
+      213: 8057502608680809636
+    second: XiaoLin_10
+  - first:
+      213: 8518600269577983302
+    second: XiaoLin_11
+  - first:
+      213: -2411760313266045547
+    second: XiaoLin_12
+  - first:
+      213: -9048098358572403239
+    second: XiaoLin_13
+  - first:
+      213: -1223895030388507725
+    second: XiaoLin_14
+  - first:
+      213: -3939293264746970709
+    second: XiaoLin_15
+  - first:
+      213: -6819055849623950997
+    second: XiaoLin_16
+  - first:
+      213: -7451375664746598557
+    second: XiaoLin_17
+  - first:
+      213: 3848089819147393231
+    second: XiaoLin_18
+  - first:
+      213: 1030118314550291446
+    second: XiaoLin_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XiaoLin_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 586
+        width: 85
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2836ff767d168c30800000000000000
+      internalID: 4361205683945093165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 586
+        width: 87
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30db115166669d4a0800000000000000
+      internalID: -6568105992916976381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 586
+        width: 92
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5868fb749340ed1a0800000000000000
+      internalID: -6782979344710007163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 588
+        width: 73
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9dc50238f33e720800000000000000
+      internalID: 2874210819608730088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 442
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a804e3d746bebe50800000000000000
+      internalID: 6827094504754120865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 442
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b82ecd960f9336b0800000000000000
+      internalID: -5317731884228269901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 442
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655017a94748929a0800000000000000
+      internalID: -6257324570912422570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 442
+        width: 68
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3032244d936913220800000000000000
+      internalID: 2463915646266778371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 309
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008af7b53952359a0800000000000000
+      internalID: -6245606943407233024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 309
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f3553238fbdeed0800000000000000
+      internalID: -2383038057854714065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 309
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4f33f9eeff1df60800000000000000
+      internalID: 8057502608680809636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 309
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6451ebbcfc5283670800000000000000
+      internalID: 8518600269577983302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 176
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d746ce5c4b78ed0800000000000000
+      internalID: -2411760313266045547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 176
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d53f745b72be6280800000000000000
+      internalID: -9048098358572403239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 176
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbb35f44f9d30fe0800000000000000
+      internalID: -1223895030388507725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_15
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 176
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba10ba0a5a1d459c0800000000000000
+      internalID: -3939293264746970709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 42
+        width: 68
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b696d9b65d8dd51a0800000000000000
+      internalID: -6819055849623950997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 42
+        width: 68
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fe9cedf45679890800000000000000
+      internalID: -7451375664746598557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_18
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 42
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8d31e6d49276530800000000000000
+      internalID: 3848089819147393231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiaoLin_19
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 42
+        width: 68
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbe4673627bb4e00800000000000000
+      internalID: 1030118314550291446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      XiaoLin_0: 4361205683945093165
+      XiaoLin_1: -6568105992916976381
+      XiaoLin_10: 8057502608680809636
+      XiaoLin_11: 8518600269577983302
+      XiaoLin_12: -2411760313266045547
+      XiaoLin_13: -9048098358572403239
+      XiaoLin_14: -1223895030388507725
+      XiaoLin_15: -3939293264746970709
+      XiaoLin_16: -6819055849623950997
+      XiaoLin_17: -7451375664746598557
+      XiaoLin_18: 3848089819147393231
+      XiaoLin_19: 1030118314550291446
+      XiaoLin_2: -6782979344710007163
+      XiaoLin_3: 2874210819608730088
+      XiaoLin_4: 6827094504754120865
+      XiaoLin_5: -5317731884228269901
+      XiaoLin_6: -6257324570912422570
+      XiaoLin_7: 2463915646266778371
+      XiaoLin_8: -6245606943407233024
+      XiaoLin_9: -2383038057854714065
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
